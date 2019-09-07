@@ -1,1 +1,1 @@
-# oop_lab1_task1
+# oop_lab1_task1 Невар Юлия Валерьевна
